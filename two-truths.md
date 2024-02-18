@@ -1,8 +1,8 @@
 ## Prashniel Kumar
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I own a large discord server
+- I am agnostic
+- I love watching sports
 
 ## Katie Davies 
 
