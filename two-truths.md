@@ -1,11 +1,12 @@
 ## Darragh Carraher
 
-- I like snowboarding
-- I like martial arts
-- I like rude people
+- I can backflip
+- I can drift a car
+- I can manu
 
 ## Celia Scott-Will-Harknett
 
 - I love the ocean
+- I can backflip 
 - I drink lots of tea
-- I can backflip
+
