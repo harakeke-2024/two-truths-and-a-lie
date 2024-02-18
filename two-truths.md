@@ -1,10 +1,10 @@
-## Neil Armstrong
+## Connor Wiltshire
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I like to row
+- I support Everton
+- I have been to space
 
-## Buzz Aldrin
+## Michael Moll
 
 - I can hula hoop.
 - I love climbing trees.
