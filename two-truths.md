@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Gisele Chaves
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I don't like Coke
+- I run a marathon
+- I'm afraid of aliens
 
-## Buzz Aldrin
+## Cae Stone
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I have never broken a bone.
+- I'm vegan.
+- I was born overseas.
