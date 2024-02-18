@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Douglas
 
-- I can play the guitar.
+- I love football
 - I love camping.
-- I am afraid of birds.
+- I am afraid of snakes
 
-## Buzz Aldrin
+## Zek
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- 
+- 
+- 
