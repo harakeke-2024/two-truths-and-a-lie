@@ -1,11 +1,11 @@
 ## Connor Wiltshire
 
 - I like to row
-- I support Everton
-- I have been to space
+- I have a dog
+- I have a cat
 
 ## Michael Moll
 
 - I like dogs 
-- I like playing pool
-- I am 2000 years old
+- I am African
+- I am 21
