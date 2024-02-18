@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Barbora
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I have 2 kids
+- I love to bake bread
+- My husband is Kiwi
 
-## Buzz Aldrin
+## Sam
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I like steak n cheese pie
+- I killed someone 
+- I punched a kid in the face 
