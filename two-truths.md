@@ -6,6 +6,6 @@
 
 ## Michael Moll
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I like dogs 
+- I like playing pool
+- I am 2000 years old
