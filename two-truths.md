@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Sonia Huynh
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I can play the piano
+- I am turning six this year
+- I have three siblings
 
-## Buzz Aldrin
+## Sukh Chauhan
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I am very good in sports  
+- I have one sibling
+- I am from punjab.
